@@ -1,0 +1,2 @@
+# ExportMemoFromDocomoMemo
+ドコモのメモ・スケジュールからメモをテキスト形式で出力するツール
